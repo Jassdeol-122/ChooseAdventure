@@ -4,3 +4,4 @@ Welcome to the mystical land of Eldoria. You are an adventurer on a quest to fin
 
 # What do you do?
 [Venture into the undergrowth](undergrowth.md)
+[Enter the forest](forest.md)
